@@ -27,8 +27,12 @@ public class LeoStuff extends JPanel{
                 }
             });
             timer.start();
+            
+            
+
 
     }
+
 
     @Override
     public void paint(Graphics g) {
